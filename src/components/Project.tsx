@@ -2,15 +2,9 @@ const Projects = () => {
     const projectList = [
       {
         title: "Activity 1: Basic HTML Portfolio",
-        role: "Lead Developer",
+        role: "Developer",
         tech: "HTML, CSS",
-        desc: "Ito ang unang version ng aking portfolio na ni-convert ko ngayon sa React."
-      },
-      {
-        title: "Academic Project: [Pangalan ng Project]",
-        role: "Member/Developer",
-        tech: "JavaScript",
-        desc: "Isang simpleng application para sa aming midterm requirement."
+    
       }
     ];
   
